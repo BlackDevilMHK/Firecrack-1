@@ -14,7 +14,7 @@ more tools: :point_down:<br>
 3.admin finder
 4.bing dorking
 5.deface (file upload)
-```
+``
 
 ## :camera: Screenshot:
 ![1](https://github.com/Ranginang67/Firecrack/blob/master/img/1.png)
